@@ -56,3 +56,4 @@ Contributors' images are generated once in a day and it will be cached for later
 | Riddhi Siddarkar | There is always a bigger fish to catch.                     | [Twitter](https://twitter.com/siddarkar)                   |
 | Priyanshi Sharma | She believed She could so She DID!                          | [LinkedIn](https://www.linkedin.com/in/priyanshi-sharma-/) |
 | Shloka Gupta     | Jo hoga dekha jaega!                                        | [LinkedIn](www.linkedin.com/in/shloka-gupta-45b974157)     |
+| Akshay Chopade   | Check small tasks to reach your big goals step by step      | [Twitter](https://twitter.com/imakshay001)
